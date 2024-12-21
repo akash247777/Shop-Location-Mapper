@@ -50,7 +50,7 @@ def main():
     st.title("Shop Location Mapper")
 
     # Hardcoded file path for the Excel file
-    file_path = "lat & long.xlsx"
+    file_path = "Map/lat & long.xlsx"
 
     try:
         # Load Excel data
